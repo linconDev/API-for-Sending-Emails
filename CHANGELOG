@@ -1,0 +1,5 @@
+[05/09/2024] - [0.4.0] - Implementations:
+
+1. FEATURE: SQLite database to store email host configuration and sent email information.
+2. FEATURE: Endpoint for storing email hosts to be used.
+3. FEATURE: Endpoint for sending emails and storing sent emails.
